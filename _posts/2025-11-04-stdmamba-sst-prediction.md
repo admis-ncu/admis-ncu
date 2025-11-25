@@ -2,7 +2,7 @@
 title: "成果分享 | 同济大学&复旦大学&香港理工：基于时空分解Mamba的长期细粒度海温预测方法 (IEEE TGRS)"
 image: images/stdmamba-architecture.png
 author: 01zhoushui
-tags: research, publication, sst-prediction, mamba
+tags: paper, activity
 ---
 
  ADMIS 实验室近日在期刊IEEE Transactions on Geoscience and Remote Sensing (TGRS) 发表了关于时空数据预测领域的最新研究成果——基于时空分解Mamba的长期细粒度海温预测方法。本研究聚焦于海表温度（SST）的长期细粒度预测问题。现有方法大多仅能实现短期预测或长期粗粒度预测，难以同时应对海温序列中的噪声干扰与复杂时空依赖建模挑战。为突破这一瓶颈，我们提出了一种全新的时空分解Mamba模型STDMamba，用于长期精细化SST预测。
