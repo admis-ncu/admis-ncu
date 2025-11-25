@@ -1,6 +1,6 @@
 ---
 name: 郑海飞 (Zheng Haifei)
-image: https://my.chsi.com.cn/archive/photo/xjpic.do?pid=9tdbc6xv2eyypei3
+image: images/people/zhf.jpg
 role: current_master
 affiliation: 南昌大学数学与计算机学院
 aliases:
@@ -11,13 +11,12 @@ links:
 ---
 
 ### 个人简介/About Me
-22岁，东华理工大学软件工程专业本科毕业，目前在南昌大学数学与计算机学院就读软件工程硕士。深入学习了Java、C语言、数据结构、操作系统等核心课程，具备扎实的编程基础和良好的团队协作能力。
+东华理工大学软件工程专业本科毕业，目前在南昌大学数学与计算机学院就读软件工程硕士。深入学习了Java、C语言、数据结构、操作系统等核心课程，具备扎实的编程基础和良好的团队协作能力。
 
 ### 研究方向/Research Interests
 - 后端开发
-- 分布式系统
 - 数据库优化
-- 微服务架构
+
 
 ### 项目经历/Projects
 #### 外卖平台开发项目
@@ -35,4 +34,3 @@ links:
 - 框架技术：Spring Boot、MyBatis
 - 数据库：MySQL，能够进行性能优化与索引设计
 - 缓存技术：Redis
-- 其他：熟悉分布式架构和微服务

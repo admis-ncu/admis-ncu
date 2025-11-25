@@ -1,6 +1,6 @@
 ---
 name: 陈浩杰 (Haojie Chen)
-image: images/haojiechen.jpg
+image: images/people/陈浩杰.jpg
 role: current_master
 affiliation: 南昌大学数学与计算机学院
 aliases:
