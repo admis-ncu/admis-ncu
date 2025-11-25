@@ -1,1 +1,0 @@
-Sitemap: https://admis-ncu.github.io/admis-ncu/sitemap.xml
