@@ -5,6 +5,6 @@
 
   # chaneray's Website
 
-  Visit **[chaneray.github.io/admis-ncu](https://chaneray.github.io/admis-ncu)** 🚀
+  Visit **[admis-ncu.github.io/admis-ncu](https://admis-ncu.github.io/admis-ncu)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
